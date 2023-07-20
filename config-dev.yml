@@ -1,6 +1,3 @@
-server:
-  port: 3344
-
 config:
   info: bigdog
 
